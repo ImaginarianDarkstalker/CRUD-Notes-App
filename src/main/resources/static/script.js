@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/api/notes";
+const API_URL = "/api/notes";
 
 const noteForm = document.getElementById("noteForm");
 const titleInput = document.getElementById("title");
